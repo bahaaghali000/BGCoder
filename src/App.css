@@ -1,0 +1,18 @@
+.app{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.select{
+    border: none;
+    outline: none;
+    padding: 5px 10px;
+    width: 130%;
+    margin-left: 20px;
+}
+
+.output{
+    height: 100%;
+}
